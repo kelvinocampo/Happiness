@@ -20,6 +20,7 @@ header {
     gap: 1rem;
     position: sticky;
     top: 0;
+    z-index: 300;
 }
 
 header img {
@@ -518,7 +519,7 @@ footer hr {
     }
 
     .section2 {
-        margin-top: 360px;
+        margin-top: 440px;
         padding: 48px;
 
         .text {
@@ -645,6 +646,6 @@ footer hr {
 
 @media (max-width:370px) {
     .section2{
-        margin-top: 400px;
+        margin-top: 440px;
     }
 }
